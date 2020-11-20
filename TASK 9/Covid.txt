@@ -1,0 +1,19 @@
+Hey!!!
+
+#GRIPNOV20
+
+#Task9 : Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau. ● Use animation, timeline and annotations to create attractive and interactive dashboards and story ● Identify interesting patterns and possible reasons helping Covid-19 spread with basic as well as advanced charts ● Screen-record the completed storyboard along with your audio explaining the charts and giving recommendations. 
+
+Objective here is to explore the dataset to find weak areas and derive problems to increase profits as a Business Manager.
+
+Tableau link:
+https://public.tableau.com/profile/sunny.kumar.tripathi#!/vizhome/Covid-20/Animation-1
+
+Youtube link:
+https://youtu.be/k5ufGciC3CQ?list=PLYwz4A3xQm3t5omf4drrKNirIZ341x0aE
+
+
+Would appreciate any feedbacks and suggestions.
+
+#GRIPNOV20 #thesparksfoundation #datascience #dataanalysis #dataanalytics #businessanalysis #businessanalytics #internship #analytics #pythonprogramming #python #pythonfordatascience
+
