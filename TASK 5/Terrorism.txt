@@ -1,0 +1,18 @@
+
+#GRIPNOV20
+
+#Task5 : Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’. As a security/defense analyst, try to find out the hot zone of terrorism. What all security issues and insights you can derive by EDA.
+
+Objective here is to explore the dataset to find weak areas and derive problems to increase profits as a Business Manager.
+
+Youtube Tableau link:
+https://youtu.be/m5Z_iHJvTt0?list=PLYwz4A3xQm3t5omf4drrKNirIZ341x0aE
+
+Tableau link
+https://public.tableau.com/profile/sunny.kumar.tripathi#!/vizhome/TERRORISM/Dashboard1
+
+
+Would appreciate any feedbacks and suggestions.
+
+#GRIPNOV20 #thesparksfoundation #datascience #dataanalysis #dataanalytics #businessanalysis #businessanalytics #internship #analytics #pythonprogramming #python #pythonfordatascience
+
